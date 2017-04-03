@@ -21,7 +21,7 @@ cnpm install
 ## 运行
 ### 开发环境
 ```bush
-// ~~注意首次使用需要执行下面的init命令来生成入口html文件,以后不用再执行~~
+~~注意首次使用需要执行下面的init命令来生成入口html文件,以后不用再执行~~
 // iview升级，不再需要执行init命令
 npm run init
 npm run dev
